@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.idea/
+build/
+build_log.txt
+*.log
+
+# Keep the final executable, but ignore other generated distribution files.
+dist/*
+!dist/MultiLevelImageExtractor.exe
+
+# Local test and preview artifacts
+preview_nonexistent/
+
